@@ -55,7 +55,6 @@ Projet est réalisé par::
 - https://github.com/lucastrap[Luca Straputicari]
 - https://github.com/AlexVignal[Alexandre Vignal]
 - https://github.com/Dourlent-Maxime[Maxime Dourlent]
-...
 
 Tuteur/tutrice enseignant(e) de l'équipe:: mailto:patricia.stolf@univ-tlse2.fr[PS]
 

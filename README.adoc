@@ -51,11 +51,13 @@ toc::[]
 
 Projet est réalisé par::
 
-- https://github.com/janeDoe[Jane Doe]
-- https://github.com/johnSmith[John Smith]
+- https://github.com/Mazlai[Mickael Fernandez]
+- https://github.com/lucastrap[Luca Straputicari]
+- https://github.com/AlexVignal[Alexandre Vignal]
+- https://github.com/Dourlent-Maxime[Maxime Dourlent]
 ...
 
-Tuteur/tutrice enseignant(e) de l'équipe:: mailto:jean-michel.bruel@univ-tlse2.fr[JMB]
+Tuteur/tutrice enseignant(e) de l'équipe:: mailto:patricia.stolf@univ-tlse2.fr[PS]
 
 == Contexte général
 

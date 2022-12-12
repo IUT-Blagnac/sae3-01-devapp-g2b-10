@@ -122,4 +122,4 @@ ifndef::env-github[]
 endif::[]
 
 =Sprint 1 retour :
-Manque liens dans le readme. Revoir la rédaction des US dans le backlog IOT.Attention aux US sans finalités dans le backlog Ecommerce.J'ai des tâches "à réaliser" qui sont en done. Lier les tâches aux US. Organiser les release par produit plutôt que pas techno... Rien sur les docs.
+Manque liens dans le readme. Revoir la rédaction des US dans le backlog IOT.Attention aux US sans finalités dans le backlog Ecommerce.J'ai des tâches "à réaliser" qui sont en done. Lier les tâches aux US. Organiser les release par produit plutôt que par techno... Rien sur les docs.

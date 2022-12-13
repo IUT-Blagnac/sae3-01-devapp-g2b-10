@@ -90,6 +90,13 @@ TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 == Réalisations 
 
 TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
+- Documentations Sprint 1 :
+
+- Documentation WEB : 
+
+- Documentation BD : 
+
+- Documentation IOT : 
 
 == Gestion de projet & Qualité
 

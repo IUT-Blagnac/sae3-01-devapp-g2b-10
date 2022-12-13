@@ -91,6 +91,7 @@ TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
 TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
 - Documentations Sprint 1 :
+=== Sprint 1
 
 - Documentation WEB : 
     - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_PHP/CharteGraphique.pdf[Charte graphique]
@@ -103,8 +104,7 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 - Documentation IOT : 
     - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_IOT[Rapport_IOT]
     
-    TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
-- Documentations Sprint 2 :
+ === Sprint2
 
 == Gestion de projet & Qualité
 

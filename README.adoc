@@ -67,36 +67,36 @@ TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
 ==== Voici la structure de notre organisation GitHub
 
 Code:
-    \-Sprint1:
-        \- *BD*:
-            -Doc_BD:
-                -Rapport_BD
-            -Code_BD:
-                - *Différents fichier sql*
+    Sprint1:
+        *BD*:
+            Doc_BD:
+                Rapport_BD
+            Code_BD:
+                 *Différents fichier sql*
                 
-        - *PHP*:
-            -Doc_Web:
-                - Rapport_WEB
-            -Code_PHP:
-                - *Différents fichier php*  
+         *PHP*:
+            Doc_Web:
+                 Rapport_WEB
+            Code_PHP:
+                 *Différents fichier php*  
                 
-        - *IOT*:
-            -Doc_IOT:
-                - Rapport_WEB
-            -Code_IOT:
-                - *Différents fichier python*   
+        *IOT*:
+            Doc_IOT:
+                 Rapport_WEB
+            Code_IOT:
+                *Différents fichier python*   
                 
-        - *Java*:
-            -Doc_Java:
-                - RApport_Java
-            -Code_Java:
-                - *Différents fichier Java*  
+        *Java*:
+            Doc_Java:
+                 RApport_Java
+            Code_Java:
+                *Différents fichier Java*  
                 
-        - *Com*:
-            -Doc_Com:
-                - Ordre du jour
-                - Compte rendu de réunion
-                - Analyse de sprint
+         *Com*:
+            Doc_Com:
+                 Ordre du jour
+                 Compte rendu de réunion
+                 Analyse de sprint
          
                 
             

@@ -106,11 +106,31 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 
 - Documentation COM : 
     - Analyse_1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/Analyse_semaine1.pdf[Analyse_1]
+    
     - CR_SPRINT1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
+    
     - ODJ_1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/ODJ_5_12.png[Ordre du jour]
 
     
 === Sprint2
+- Documentation WEB : 
+    - Charte graphique : 
+    
+    - SEP :  
+
+- Documentation BD : 
+    - Rapport de BD : 
+    
+- Documentation IOT : 
+    - PAS FINI : 
+
+- Documentation COM : 
+    - Analyse_1 : 
+    
+    - CR_SPRINT1 : 
+    
+    - ODJ_1 : 
+
 
 == Gestion de projet & Qualité
 

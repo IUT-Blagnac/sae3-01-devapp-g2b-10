@@ -42,7 +42,7 @@ TIP: Pensez à mettre à jour les infos dans ce fichier pour que les badges poin
 
 WARNING: Ce dépôt présente le projet à développer dans le cadre de la SAÉ 3.01 du BUT1 Informatique de l'IUT de Blagnac.
 
-Ce fichier `README.adoc` (dont vous lisez sûrement le rendu HTML automatiquement effectué par GitHUb), fait partie du dépôt initial cloné à partir du lien GitHub classroom qui vous a été donné en cours (https://classroom.github.com/a/OUF7gxEa).
+Ce fichier `README.adoc` (dont vous lisez sûrement le rendu HTML automatiquement effectué par GitHub), fait partie du dépôt initial cloné à partir du lien GitHub classroom qui vous a été donné en cours (https://classroom.github.com/a/OUF7gxEa).
 Vous trouverez le dépôt "template" qui a servi de base ici : https://github.com/IUT-Blagnac/sae3-01-template. En complément du cours Moodle de la SAE 3.01 (cf. <<liensUtiles>>), ce dépôt template vous permet d'accéder à des exemples d'https://github.com/IUT-Blagnac/sae3-01-template/issues[issues], de https://github.com/IUT-Blagnac/sae3-01-template/releases[releases], ou d'autres artefacts à venir.
 
 toc::[]
@@ -64,11 +64,10 @@ TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
 
 === Dépôt initial
 
-==== Voici la structure de notre organisation GitHub (exemple de sprint) :
+Découvrez l'arborescence détaillée de notre organisation GitHub (exemple de sprint) :
 
-**Code :**
 ```
-Sprint n°3:. 
+Sprint quelconque:. 
 ├───.Site web e-commerce
 |   ├───.BD
 |   │   ├───.Doc_BD
@@ -101,8 +100,6 @@ Sprint n°3:.
             └─── Analyse de sprint
 ```        
 
-TIP: Adaptez ces fichiers à votre projet et à votre organisation. Et inspirez-vous en pour en ajouter.
-
 [[liensUtiles]]
 === Liens utiles
 
@@ -110,13 +107,13 @@ TIP: Adaptez ces fichiers à votre projet et à votre organisation. Et inspirez-
 - Le dépôt https://github.com/IUT-Blagnac/sae3-01-template[template] qui sert de base à tous les dépôts étudiants.
 - Le lien https://classroom.github.com/a/OUF7gxEa[classroom] si besoin.
 
-TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
+**TIP:** Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
 == Réalisations 
 
-TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
+**TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
 
-=== Sprint 1
+=== Sprint 3 :
 
 ==== *Documentation WEB* : 
     - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_PHP/CharteGraphique.pdf[Charte graphique]
@@ -136,8 +133,8 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
     
     - ODJ_1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/ODJ_5_12.png[Ordre du jour]
 
-    
-=== Sprint2
+=== Sprint 4 :
+
 ==== *Documentation WEB* : 
     - Charte graphique : 
     
@@ -155,7 +152,6 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
     - CR_SPRINT1 : 
     
     - ODJ_1 : 
-
 
 == Gestion de projet & Qualité
 

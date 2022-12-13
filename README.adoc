@@ -98,10 +98,10 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
     - SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_PHP/RapportSEP.pdf[SEP]
 
 - Documentation BD : 
-    -Rapport de BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_BD/Rapport_BD.pdf[Rapport BD]
+    - Rapport de BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_BD/Rapport_BD.pdf[Rapport BD]
 
 - Documentation IOT : 
-PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_IOT[Rapport_IOT]
+    - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_IOT[Rapport_IOT]
 
 == Gestion de projet & Qualité
 

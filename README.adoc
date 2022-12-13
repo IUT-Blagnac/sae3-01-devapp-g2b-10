@@ -94,6 +94,7 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 
 - Documentation WEB : 
     Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+    
     SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_PHP/RapportSEP.pdf[SEP]
 
 - Documentation BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_BD/Rapport_BD.pdf[Rapport BD]

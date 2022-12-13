@@ -93,7 +93,7 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 - Documentations Sprint 1 :
 
 - Documentation WEB : 
-    Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_PHP[CharteGraphique)
+    Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/DOC_PHP/CharteGraphique.pdf [CharteGraphique]
 
 - Documentation BD : 
 

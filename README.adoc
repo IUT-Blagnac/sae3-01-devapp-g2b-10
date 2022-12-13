@@ -64,42 +64,42 @@ TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
 
 === Dépôt initial
 
-==== Voici la structure de notre organisation GitHub
-*
-Code:
-    Sprint1:
-        *BD*:
-            Doc_BD:
-                Rapport_BD
-            Code_BD:
-                 *Différents fichier sql*
-                
-         *PHP*:
-            Doc_Web:
-                 Rapport_WEB
-            Code_PHP:
-                 *Différents fichier php*  
-                
-        *IOT*:
-            Doc_IOT:
-                 Rapport_WEB
-            Code_IOT:
-                *Différents fichier python*   
-                
-        *Java*:
-            Doc_Java:
-                 RApport_Java
-            Code_Java:
-                *Différents fichier Java*  
-                
-         *Com*:
-            Doc_Com:
-                 Ordre du jour
-                 Compte rendu de réunion
-                 Analyse de sprint
-         
-                
-            
+==== Voici la structure de notre organisation GitHub (exemple de sprint) :
+
+**Code :**
+```
+Sprint n°3:. 
+├───.Site web e-commerce
+|   ├───.BD
+|   │   ├───.Doc_BD
+|   │   │   └─── Rapport_BD
+|   │   └───.Code_BD
+|   │       └─── *Différents fichiers SQL*
+|   └───.PHP
+|       ├───.Doc_Web
+|       │   └─── Rapport_WEB
+|       └───.Code_PHP
+|           └─── *Différents fichiers PHP*
+|
+├───.Applications
+|   ├───.IOT
+|   │   ├───.Doc_IOT
+|   │   │   └─── Rapport_IOT
+|   │   └───.Code_BD
+|   │       └─── *Différents fichiers Python*
+|   └───.Java
+|       ├───.Doc_Java
+|       │   └─── Rapport_Java
+|       └───.Code_Java
+|           └─── *Différents fichiers Java*
+|
+└───.Documentations quotidiennes
+    └───.Communication
+        └───.Doc_Comm
+            └─── Ordre du jour
+            └─── Compte rendu de réunion
+            └─── Analyse de sprint
+```        
 
 TIP: Adaptez ces fichiers à votre projet et à votre organisation. Et inspirez-vous en pour en ajouter.
 

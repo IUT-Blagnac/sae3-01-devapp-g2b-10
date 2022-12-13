@@ -67,8 +67,8 @@ TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
 ==== Voici la structure de notre organisation GitHub
 
 Code:
-    -Sprint1:
-        - *BD*:
+    \-Sprint1:
+        \- *BD*:
             -Doc_BD:
                 -Rapport_BD
             -Code_BD:

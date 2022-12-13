@@ -113,7 +113,7 @@ Sprint quelconque:.
 
 **TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
 
-=== Sprint 3 :
+=== Sprint 49:
 
 ==== *Documentation WEB* : 
     - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_PHP/CharteGraphique.pdf[Charte graphique]
@@ -127,13 +127,13 @@ Sprint quelconque:.
     - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_IOT[Rapport_IOT]
 
 ==== *Documentation COM* : 
-    - Analyse_1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/Analyse_semaine1.pdf[Analyse_1]
+    - Analyse_49 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/Analyse_semaine1.pdf[Analyse_1]
     
-    - CR_SPRINT1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
+    - CR_SPRINT49 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
     
-    - ODJ_1 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/ODJ_5_12.png[Ordre du jour]
+    - ODJ_49 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/ODJ_5_12.png[Ordre du jour]
 
-=== Sprint 4 :
+=== Sprint 50 :
 
 ==== *Documentation WEB* : 
     - Charte graphique : 
@@ -147,9 +147,9 @@ Sprint quelconque:.
     - PAS FINI : 
 
 ==== *Documentation COM* : 
-    - Analyse_1 : 
+    - Analyse_50 : 
     
-    - CR_SPRINT1 : 
+    - CR_SPRINT50 : 
     
     - ODJ_1 : 
 

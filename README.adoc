@@ -65,7 +65,7 @@ TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
 === Dépôt initial
 
 ==== Voici la structure de notre organisation GitHub
-
+*
 Code:
     Sprint1:
         *BD*:

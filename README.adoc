@@ -113,18 +113,18 @@ TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre d�
 
     
 === Sprint2
-- Documentation WEB : 
+==== *Documentation WEB* : 
     - Charte graphique : 
     
     - SEP :  
 
-- Documentation BD : 
+==== *Documentation BD* : 
     - Rapport de BD : 
     
-- Documentation IOT : 
+==== *Documentation IOT* : 
     - PAS FINI : 
 
-- Documentation COM : 
+==== *Documentation COM* : 
     - Analyse_1 : 
     
     - CR_SPRINT1 : 

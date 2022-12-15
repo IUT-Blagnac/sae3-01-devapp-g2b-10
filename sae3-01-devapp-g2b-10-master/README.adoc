@@ -1,0 +1,187 @@
+= SAÉ 3.01 2022-2023
+:icons: font
+:models: models
+:experimental:
+:incremental:
+:numbered:
+:toc: macro
+:window: _blank
+:correction!:
+
+// Useful definitions
+:asciidoc: http://www.methods.co.nz/asciidoc[AsciiDoc]
+:icongit: icon:git[]
+:git: http://git-scm.com/[{icongit}]
+:plantuml: https://plantuml.com/fr/[plantUML]
+:vscode: https://code.visualstudio.com/[VS Code]
+
+ifndef::env-github[:icons: font]
+// Specific to GitHub
+ifdef::env-github[]
+:correction:
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+:icongit: Git
+endif::[]
+
+// /!\ A MODIFIER !!!
+:baseURL: https://github.com/IUT-Blagnac/sae3-01-template
+
+// Tags
+image:{baseURL}/actions/workflows/blank.yml/badge.svg[Bidon] 
+image:{baseURL}/actions/workflows/build.yml/badge.svg[Build] 
+image:{baseURL}/actions/workflows/tests.yml/badge.svg[Tests] 
+image:https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg[License: MPL-2.0, link="https://opensource.org/licenses/MPL-2.0"]
+//---------------------------------------------------------------
+
+TIP: Pensez à mettre à jour les infos dans ce fichier pour que les badges pointent sur les résultats effectifs de vos intégrations continue ou sur la bonne licence logicielle.
+
+WARNING: Ce dépôt présente le projet à développer dans le cadre de la SAÉ 3.01 du BUT1 Informatique de l'IUT de Blagnac.
+
+Ce fichier `README.adoc` (dont vous lisez sûrement le rendu HTML automatiquement effectué par GitHub), fait partie du dépôt initial cloné à partir du lien GitHub classroom qui vous a été donné en cours (https://classroom.github.com/a/OUF7gxEa).
+Vous trouverez le dépôt "template" qui a servi de base ici : https://github.com/IUT-Blagnac/sae3-01-template. En complément du cours Moodle de la SAE 3.01 (cf. <<liensUtiles>>), ce dépôt template vous permet d'accéder à des exemples d'https://github.com/IUT-Blagnac/sae3-01-template/issues[issues], de https://github.com/IUT-Blagnac/sae3-01-template/releases[releases], ou d'autres artefacts à venir.
+
+toc::[]
+
+== Equipe
+
+Projet est réalisé par::
+
+- https://github.com/Mazlai[Mickael Fernandez]
+- https://github.com/lucastrap[Luca Straputicari]
+- https://github.com/AlexVignal[Alexandre Vignal]
+- https://github.com/Dourlent-Maxime[Maxime Dourlent]
+
+Tuteur/tutrice enseignant(e) de l'équipe:: mailto:patricia.stolf@univ-tlse2.fr[PS]
+
+== Contexte général
+
+TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
+
+=== Dépôt initial
+
+Découvrez l'arborescence détaillée de notre organisation GitHub (exemple de sprint) :
+
+```
+Sprint quelconque:. 
+├───.Site web e-commerce
+|   ├───.BD
+|   │   ├───.Doc_BD
+|   │   │   └─── Rapport_BD
+|   │   └───.Code_BD
+|   │       └─── *Différents fichiers SQL*
+|   └───.PHP
+|       ├───.Doc_Web
+|       │   └─── Rapport_WEB
+|       └───.Code_PHP
+|           └─── *Différents fichiers PHP*
+|
+├───.Applications
+|   ├───.IOT
+|   │   ├───.Doc_IOT
+|   │   │   └─── Rapport_IOT
+|   │   └───.Code_BD
+|   │       └─── *Différents fichiers Python*
+|   └───.Java
+|       ├───.Doc_Java
+|       │   └─── Rapport_Java
+|       └───.Code_Java
+|           └─── *Différents fichiers Java*
+|
+└───.Documentations quotidiennes
+    └───.Communication
+        └───.Doc_Comm
+            └─── Ordre du jour
+            └─── Compte rendu de réunion
+            └─── Analyse de sprint
+```        
+
+[[liensUtiles]]
+=== Liens utiles
+
+- Le https://webetud.iut-blagnac.fr/course/view.php?id=841[cours Moodle] sur la SAE
+- Le dépôt https://github.com/IUT-Blagnac/sae3-01-template[template] qui sert de base à tous les dépôts étudiants.
+- Le lien https://classroom.github.com/a/OUF7gxEa[classroom] si besoin.
+
+**TIP:** Pensez à utiliser les salons Discord dédiés pour poser vos questions.
+
+== Réalisations 
+
+**TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
+
+=== Sprint 49:
+
+==== *Documentation WEB* : 
+    - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+    
+    - SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_PHP/RapportSEP.pdf[SEP]
+
+==== *Documentation BD* : 
+    - Rapport de BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_BD/Rapport_BD.pdf[Rapport BD]
+
+==== *Documentation IOT* : 
+    - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/DOC_IOT[Rapport_IOT]
+
+==== *Documentation COM* : 
+    - Analyse_49 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/Analyse_semaine1.pdf[Analyse_1]
+    
+    - CR_SPRINT49 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
+    
+    - ODJ_49 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_1/Com/ODJ_5_12.png[Ordre du jour]
+
+=== Sprint 50 :
+
+==== *Documentation WEB* : 
+    - Charte graphique : 
+    
+    - SEP :  
+
+==== *Documentation BD* : 
+    - Rapport de BD : 
+    
+==== *Documentation IOT* : 
+    - PAS FINI : 
+
+==== *Documentation COM* : 
+    - Analyse_50 : 
+    
+    - CR_SPRINT50 : 
+    
+    - ODJ_1 : 
+
+== Gestion de projet & Qualité
+
+Chaque sprint (semaine) vous devrez livrer une nouvelle version de votre application (release).
+Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.com/en/repositories/releasing-projects-on-github[Releases].
+
+De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
+
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-template/releases/tag/v0.1.2[v0.1.2]
+- Lien vers la doc technique
+- Lien vers la doc utilisateur
+- Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant
+- Tests unitaires et plans de test
+- Indicateurs de qualité du code (dette technique)
+- ... tout autre élément que vous jugerez utiles pour démontrer la qualité de votre application
+
+
+=== Évaluations hebdomadaires
+
+NOTE: Les notes ci-dessous sont mises à jour directement par les enseignants responsables de la compétence 5.
+
+ifdef::env-github[]
+image:https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1704009585&format=image[link=https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1704009585&format=image]
+endif::[]
+
+ifndef::env-github[]
+++++
+<iframe width="786" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1704009585&format=image"></iframe>
+++++
+endif::[]
+
+=Sprint 3 retour :
+Manque liens dans le readme. Revoir la rédaction des US dans le backlog IOT.Attention aux US sans finalités dans le backlog Ecommerce.J'ai des tâches "à réaliser" qui sont en done. Lier les tâches aux US. Organiser les release par produit plutôt que par techno... Rien sur les docs.

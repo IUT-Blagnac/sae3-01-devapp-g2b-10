@@ -129,29 +129,27 @@ Sprint quelconque:.
 ==== *Documentation COM* : 
     - Analyse_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse_1]
     
-    - CR_SPRINT_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/ComCR_SPRINT1.pdf[Compte rendu de réunion]
+    - CR_SPRINT_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
     
-    - ODJ_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/ComODJ_5_12.png[Ordre du jour]
+    - ODJ_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/ODJ_5_12.png[Ordre du jour]
 
 === Sprint 4 :
 
 ==== *Documentation WEB* : 
-    - Charte graphique : 
-    
-    - SEP :  
+    - Rapport PHP :
 
 ==== *Documentation BD* : 
     - Rapport de BD : 
     
 ==== *Documentation IOT* : 
-    - PAS FINI : 
+    - IOT_4 : 
 
 ==== *Documentation COM* : 
-    - Analyse_50 : 
+    - Analyse_4 : 
     
-    - CR_SPRINT_50 : 
+    - CR_SPRINT_4 : 
     
-    - ODJ_50 : 
+    - ODJ_4 : 
 
 == Gestion de projet & Qualité
 

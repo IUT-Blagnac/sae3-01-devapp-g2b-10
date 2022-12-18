@@ -115,46 +115,40 @@ Sprint quelconque:.
 
 === Sprint 3:
 
-==== *Documentation WEB* : 
-    - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
-    
-    - SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
+==== *Documentations - partie web* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
 
-==== *Documentation BD* : 
-    - Rapport de BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
+==== *Documentations - partie base de données* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
 
-==== *Documentation IOT* : 
-    - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport_IOT]
+==== *Documentations - partie IOT (Internet Of Things)* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport IOT] | **Non-terminé.**
 
-==== *Documentation COM* : 
-    - Analyse_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse_1]
-    
-    - CR_SPRINT_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
-    
-    - ODJ_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/ODJ_5_12.png[Ordre du jour]
+==== *Documentation - partie communication* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse]    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/ODJ_5_12.png[Ordre du jour]
 
 === Sprint 4 :
 
-==== *Documentation WEB* : 
-    - Rapport PHP : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
+==== *Documentation - partie web* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
 
-==== *Documentation BD* : 
-    - Rapport de BD : 
+==== *Documentation - partie base de données* : 
+    - Rapport de BD : **[A venir]**
     
-==== *Documentation IOT* : 
-    - IOT_4 : 
+==== *Documentation - partie IOT* : 
+    - Rapport de IOT : **[A venir]**
 
-==== *Documentation COM* : 
-    - Analyse_4 : 
-    
-    - CR_SPRINT_4 : 
-    
-    - ODJ_4 : 
+==== *Documentation - partie communication* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine2.pdf[Analyse]   
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT2.pdf[Compte-rendu de réunion]    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/ODJ_2_G2B-10.pdf[Ordre du jour]
 
 == Gestion de projet & Qualité
 
-Chaque sprint (semaine) vous devrez livrer une nouvelle version de votre application (release).
-Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.com/en/repositories/releasing-projects-on-github[Releases].
+Chaque semaine, une release est réalisée, indiquant pour chaque produit, l'ensemble des tâches réalisées ainsi que le document final associé à l'ensemble de ces tâches (documentations, codes, tests, etc.).
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 

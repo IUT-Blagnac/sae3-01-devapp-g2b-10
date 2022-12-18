@@ -116,22 +116,22 @@ Sprint quelconque:.
 === Sprint 3:
 
 ==== *Documentation WEB* : 
-    - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_web_commerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+    - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHPCharteGraphique.pdf[Charte graphique]
     
-    - SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_web_commerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
+    - SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
 
 ==== *Documentation BD* : 
-    - Rapport de BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_web_commerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
+    - Rapport de BD :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
 
 ==== *Documentation IOT* : 
-    - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Application/IOT/DOC_IOT[Rapport_IOT]
+    - PAS FINI :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport_IOT]
 
 ==== *Documentation COM* : 
-    - Analyse_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Communication/Com/Analyse_semaine1.pdf[Analyse_1]
+    - Analyse_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse_1]
     
-    - CR_SPRINT_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]
+    - CR_SPRINT_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/ComCR_SPRINT1.pdf[Compte rendu de réunion]
     
-    - ODJ_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Communication/Com/ODJ_5_12.png[Ordre du jour]
+    - ODJ_3 : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/ComODJ_5_12.png[Ordre du jour]
 
 === Sprint 4 :
 

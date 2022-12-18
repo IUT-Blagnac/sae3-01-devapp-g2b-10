@@ -116,7 +116,7 @@ Sprint quelconque:.
 === Sprint 3:
 
 ==== *Documentation WEB* : 
-    - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHPCharteGraphique.pdf[Charte graphique]
+    - Charte graphique : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
     
     - SEP :  https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
 

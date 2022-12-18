@@ -136,7 +136,7 @@ Sprint quelconque:.
 === Sprint 4 :
 
 ==== *Documentation WEB* : 
-    - Rapport PHP :
+    - Rapport PHP : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
 
 ==== *Documentation BD* : 
     - Rapport de BD : 

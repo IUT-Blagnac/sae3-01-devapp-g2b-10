@@ -113,7 +113,7 @@ Sprint quelconque:.
 
 **TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
 
-=== Sprint 3:
+=== Sprint 3 :
 
 ==== *Documentations - partie web* : 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]    
@@ -145,6 +145,19 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine2.pdf[Analyse]   
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT2.pdf[Compte-rendu de réunion]    
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/ODJ_2_G2B-10.pdf[Ordre du jour]
+    
+=== Sprint 5 :
+
+==== *Documentation - partie web* :
+    - Rapport de PHP : **[A venir]**
+    
+==== *Documentation - partie base de données* :
+    - Rapport de BD : **[A venir]**
+    
+==== *Documentation partie communication* :
+    - Analyse de la semaine : **[A venir]**
+    - Compte rendu de réunion : **[A venir]**
+    - Ordre du jour : **[A venir]**
 
 == Gestion de projet & Qualité
 

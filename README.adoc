@@ -113,6 +113,12 @@ Sprint quelconque:.
 
 **TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
 
+=== Backlog :
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20produit.pdf[Backlog produit]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20sprint%203.pdf[Backlog sprint 3]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Backlog%20sprint%204.pdf[Backlog sprint 4]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Backlog%20sprint%205.pdf[Backlog sprint 5]
+
 === Sprint 3 :
 
 ==== *Documentations - partie web* : 

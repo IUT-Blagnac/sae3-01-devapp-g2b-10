@@ -132,7 +132,7 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
 
 ==== *Documentations - partie IOT (Internet Of Things)* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport IOT] | **Non-terminé.**
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport IOT]
 
 ==== *Documentation - partie communication* : 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse]    
@@ -168,9 +168,9 @@ Sprint quelconque:.
     - Rapport de Java : **[A venir]**
     
 ==== *Documentation partie communication* :
-    - Analyse de la semaine : **[A venir]**
-    - Compte rendu de réunion : **[A venir]**
-    - Ordre du jour : **[A venir]**
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/CR_SPRINT3.pdf[Compte-rendu de réunion]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/ODJ_Sprint5_G2B-10.pdf[Ordre du jour]
 
 == Gestion de projet & Qualité
 

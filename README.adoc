@@ -145,10 +145,11 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
 
 ==== *Documentation - partie base de données* : 
-    - Rapport de BD : **[A venir]**
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport de BD]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Document_BD_CREA_INSERT.pdf[Document de création & d'insertion des données]
     
 ==== *Documentation - partie IOT* : 
-    - Rapport de IOT : **[A venir]**
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Rapport de IOT]
 
 ==== *Documentation - partie communication* : 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine2.pdf[Analyse]   
@@ -158,7 +159,7 @@ Sprint quelconque:.
 === Sprint 5 :
 
 ==== *Documentation - partie web* :
-    - Rapport de PHP : **[A venir]**
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
     
 ==== *Documentation - partie base de données* :
     - Rapport de BD : **[A venir]**

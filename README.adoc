@@ -162,7 +162,8 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
     
 ==== *Documentation - partie base de données* :
-    - Rapport de BD : **[A venir]**
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Rapport de BD - Création & insertions]
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Rapport de BD - Procédures & triggers]
     
 ==== *Documentation - partie java* :
     - Rapport de Java : **[A venir]**

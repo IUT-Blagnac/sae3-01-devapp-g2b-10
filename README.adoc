@@ -179,7 +179,7 @@ Chaque semaine, une release est réalisée, indiquant pour chaque produit, l'ens
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-template/releases/tag/v0.1.2[v0.1.2]
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/releases/tag/V5[V5]
 - Lien vers la doc technique
 - Lien vers la doc utilisateur
 - Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant
@@ -204,3 +204,8 @@ endif::[]
 
 =Sprint 3 retour :
 Manque liens dans le readme. Revoir la rédaction des US dans le backlog IOT.Attention aux US sans finalités dans le backlog Ecommerce.J'ai des tâches "à réaliser" qui sont en done. Lier les tâches aux US. Organiser les release par produit plutôt que par techno... Rien sur les docs.
+
+=Sprint 4 retour :
+Livraison : doc récap en web, bonne idée. Pensez à mettre un lien vers vos code sources versionnés, le lien donné dans qualité ne précise pas le produit !!
+
+Attention il me manque de nombreux liens : backlogs par produit, backlogs sprints , doc, tests ... à partir de maintenant je ne cherche plus dans vos dépôts (la vidéo le précise bien) ... pensez-y pour le sprint 5 ! D'ailleurs je n'ai pas de backlog sprint 5 ...

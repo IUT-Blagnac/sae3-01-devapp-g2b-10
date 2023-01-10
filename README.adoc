@@ -210,12 +210,12 @@ Livraison : doc récap en web, bonne idée. Pensez à mettre un lien vers vos co
 
 Attention il me manque de nombreux liens : backlogs par produit, backlogs sprints , doc, tests ... à partir de maintenant je ne cherche plus dans vos dépôts (la vidéo le précise bien) ... pensez-y pour le sprint 5 ! D'ailleurs je n'ai pas de backlog sprint 5 ...
 
-=Sprint 5 retour :
-Issues/Backlog : je dois avoir les US sur Github pour IOT et WEB en plus des backlog version doc avec lien depuis le readme. 
-Tasks : Idem en séparant IOT et Web.Je n'ai que les tâches Web en sprint. 
-Tests : prévoir un cahier de tests en plus des issues.  
-Doc: lien livrable web ne marche pas.Je n'ai pas de doc tech et utilisateu web je n'ai que IOT .  
-Release : proposer une version en ligne de votre site. 
-Je n'ai pas trouvé de livrable IOT. 
-Readme très confus !!! 
-J'ai 0 comits de Lucas ... la note projet sera individualisée 
+=Sprint 5 retour : +
+Issues/Backlog : je dois avoir les US sur Github pour IOT et WEB en plus des backlog version doc avec lien depuis le readme. +
+Tasks : Idem en séparant IOT et Web.Je n'ai que les tâches Web en sprint. +
+Tests : prévoir un cahier de tests en plus des issues. +
+Doc: lien livrable web ne marche pas.Je n'ai pas de doc tech et utilisateu web je n'ai que IOT. +
+Release : proposer une version en ligne de votre site. +
+Je n'ai pas trouvé de livrable IOT. +
+Readme très confus !!! +
+J'ai 0 comits de Luca ... la note projet sera individualisée

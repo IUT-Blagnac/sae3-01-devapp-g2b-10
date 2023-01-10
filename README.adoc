@@ -113,65 +113,102 @@ Sprint quelconque:.
 
 **TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
 
-=== Backlog :
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20produit.pdf[Backlog produit]
+=== Documents :
+
+[cols="1,1"]
+|===
+|*Backlog* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20produit.pdf[Backlog produit]
+
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20sprint%203.pdf[Backlog sprint 3]
+
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Backlog%20sprint%204.pdf[Backlog sprint 4]
+    
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Backlog%20sprint%205.pdf[Backlog sprint 5]
 
-=== Tests :
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests]
+|*Tests* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests]
+|===
 
-=== Sprint 3 :
+=== Sprints :
 
-==== *Documentations - partie web* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]    
+
+[cols="1,1"]
+|===
+
+|*Sprint*
+|*3*
+
+|*Documentations - partie web* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
 
-==== *Documentations - partie base de données* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
+|*Documentations - partie base de données* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
 
-==== *Documentations - partie IOT (Internet Of Things)* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport IOT]
+|*Documentations - partie IOT (Internet Of Things)* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport IOT]
 
-==== *Documentation - partie communication* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse]    
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]    
+|*Documentation - partie communication* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse]    
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]  
+    
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/ODJ_5_12.png[Ordre du jour]
+|===
 
-=== Sprint 4 :
 
-==== *Documentation - partie web* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
 
-==== *Documentation - partie base de données* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport de BD]
+[cols="1,1"]
+|===
+
+|*Sprint*
+|*4*
+
+| *Documentation - partie web* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
+
+| *Documentation - partie base de données* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport de BD]
+
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Document_BD_CREA_INSERT.pdf[Document de création & d'insertion des données]
     
-==== *Documentation - partie IOT* : 
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Rapport de IOT]
+| *Documentation - partie IOT* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Rapport de IOT]
 
-==== *Documentation - partie communication* : 
+| *Documentation - partie communication* : 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine2.pdf[Analyse]   
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT2.pdf[Compte-rendu de réunion]    
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/ODJ_2_G2B-10.pdf[Ordre du jour]
-    
-=== Sprint 5 :
+|===
 
-==== *Documentation - partie web* :
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
+
+
+[cols="1,1"]
+|===
+
+|*Sprint*
+|*5*
+
+| *Documentation - partie web* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
     
-==== *Documentation - partie base de données* :
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Rapport de BD - Création & insertions]
+| *Documentation - partie base de données* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Rapport de BD - Création & insertions]
+
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Rapport de BD - Procédures & triggers]
     
-==== *Documentation - partie java* :
-    - Rapport de Java : **[A venir]**
+| *Documentation - partie java* :
+|    - Rapport de Java : **[A venir]**
     
-==== *Documentation partie communication* :
-    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]
+| *Documentation partie communication* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]
+    
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/CR_SPRINT3.pdf[Compte-rendu de réunion]
+    
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/ODJ_Sprint5_G2B-10.pdf[Ordre du jour]
+|===
 
 == Gestion de projet & Qualité
 

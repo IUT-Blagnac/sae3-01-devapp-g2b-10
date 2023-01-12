@@ -136,8 +136,7 @@ Sprint quelconque:.
 [cols="1,1"]
 |===
 
-|*Sprint*
-|*3*
+2+|*Sprint n°3*
 
 |*Documentations - partie web* :
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
@@ -158,13 +157,10 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/ODJ_5_12.png[Ordre du jour]
 |===
 
-
-
 [cols="1,1"]
 |===
 
-|*Sprint*
-|*4*
+2+|*Sprint n°4*
 
 | *Documentation - partie web* : 
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
@@ -183,13 +179,10 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/ODJ_2_G2B-10.pdf[Ordre du jour]
 |===
 
-
-
 [cols="1,1"]
 |===
 
-|*Sprint*
-|*5*
+2+|*Sprint n°5*
 
 | *Documentation - partie web* :
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]

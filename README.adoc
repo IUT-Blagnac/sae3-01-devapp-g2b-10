@@ -209,7 +209,7 @@ Sprint quelconque:.
 2+|*Sprint n°6*
 
 | *Documentation - partie web* :
-|    - Livrable Web : **[A venir]**
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S2.pdf[Livrable web]
     
 | *Documentation - partie base de données* :
 |    - Livrable BD : **[A venir]**

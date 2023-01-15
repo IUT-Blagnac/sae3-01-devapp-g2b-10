@@ -203,6 +203,29 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/ODJ_Sprint5_G2B-10.pdf[Ordre du jour]
 |===
 
+[cols="1,1"]
+|===
+
+2+|*Sprint n°6*
+
+| *Documentation - partie web* :
+|    - Livrable Web : **[A venir]**
+    
+| *Documentation - partie base de données* :
+|    - Livrable BD : **[A venir]**
+
+    
+| *Documentation - partie java* :
+|    - Rapport de Java : **[A venir]**
+    
+| *Documentation partie communication* :
+|    - **[A venir]**
+    
+    - **[A venir]**
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/ODJ_4_G2B10.pdf[Ordre du jour]
+|===
+
 == Gestion de projet & Qualité
 
 Chaque semaine, une release est réalisée, indiquant pour chaque produit, l'ensemble des tâches réalisées ainsi que le document final associé à l'ensemble de ces tâches (documentations, codes, tests, etc.).

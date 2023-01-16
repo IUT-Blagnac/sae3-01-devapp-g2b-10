@@ -274,3 +274,10 @@ Release : proposer une version en ligne de votre site. +
 Je n'ai pas trouvé de livrable IOT. +
 Readme très confus !!! +
 J'ai 0 comits de Luca ... la note projet sera individualisée
+
+=Sprint 6 retour :
+US : il me manque le lien vers le backlog sous Github, il manque les finalités à certaines US.
+Il manque le prévisionnel sprint 7.
+Il manque encore des docs... 
+J'ai un release qui date du sprint 5 ??? un autre sprint 6 mais sans lien vers un site c'est toujours confus. 
+Où est le release IOT ?

@@ -117,6 +117,33 @@ Sprint quelconque:.
 
 [cols="1,1"]
 |===
+|*IOT/JAVA* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Applications/IOT/DOC_IOT/Rapport_IOT.docx[Livrable IOT - Sprint 3]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Livrable IOT - Sprint 4]
+
+|*PHP* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[Schéma d'enchaînement des pages]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable Web - Sprint 4]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable Web - Sprint 5]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S2.pdf[Livrable Web - Sprint 6]
+
+|*Base de données* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Livrable BD - Sprint 3]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Livrable BD - Sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Document_BD_CREA_INSERT.pdf[Script Création BD + Insert - Sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Procédure/Triggers - Sprint 5]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Script Création BD + Insert - Sprint 5]
+
 |*Backlog* :
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20produit.pdf[Backlog produit]
 

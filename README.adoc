@@ -234,7 +234,7 @@ Chaque semaine, une release est réalisée, indiquant pour chaque produit, l'ens
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/releases/tag/V5[V5]
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/releases/tag/V6[V6]
 - Lien vers la doc technique
 - Lien vers la doc utilisateur
 - Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant
@@ -269,7 +269,7 @@ Attention il me manque de nombreux liens : backlogs par produit, backlogs sprint
 Issues/Backlog : je dois avoir les US sur Github pour IOT et WEB en plus des backlog version doc avec lien depuis le readme. +
 Tasks : Idem en séparant IOT et Web.Je n'ai que les tâches Web en sprint. +
 Tests : prévoir un cahier de tests en plus des issues. +
-Doc: lien livrable web ne marche pas.Je n'ai pas de doc tech et utilisateu web je n'ai que IOT. +
+Doc: lien livrable web ne marche pas.Je n'ai pas de doc tech et utilisateur web je n'ai que IOT. +
 Release : proposer une version en ligne de votre site. +
 Je n'ai pas trouvé de livrable IOT. +
 Readme très confus !!! +

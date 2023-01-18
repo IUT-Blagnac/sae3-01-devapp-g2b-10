@@ -16,10 +16,7 @@ mqttserver = ""
 
 donnees = {}
 dictAlert = {}
-alertFiles = {"temperature": "alerttemperature.txt", "activity": "alertactivity.txt", "co2": "alertco2.txt",
-              "humidity": "alerthumidity.txt", "illumination": "alertillumination.txt", "infrared": "alertinfrared.txt",
-              "infrared_and_visible": "alertinfrared_and_visible.txt", "pressure": "alertpressure.txt",
-              "tvoc": "alerttvoc.txt"}
+alertFile = "alertFile.txt"
 
 
 def get_config():
@@ -71,7 +68,7 @@ def on_message(client, userdata, msg):
             seuil = str(dictAlert[key])
             valeur = str(donnees["object"][key])
             timeStamp = str(datetime)
-            fileAlert = os.open(alertFiles[key], os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o666)
+            fileAlert = os.open(alertFile, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o666)
             os.write(fileAlert,
                      str("[" + timeStamp + "] : Seuil d'alerte dépassé ! \n Seuil : " + seuil + "\n Valeur : " + valeur).encode(
                          "UTF-8"))

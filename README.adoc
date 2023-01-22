@@ -254,7 +254,7 @@ Sprint quelconque:.
 |    - Rapport de Java : **[A venir]**
     
 | *Documentation partie communication* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_6/Documentation%20hebdomadaire-Communication[Ordre du jour]
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/ODJ_-_Post_Mortem.pdf[Ordre du jour]
 |===
 
 == Gestion de projet & Qualité

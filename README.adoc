@@ -204,6 +204,9 @@ Sprint quelconque:.
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport de BD]
 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Document_BD_CREA_INSERT.pdf[Document de création & d'insertion des données]
+
+| *Documentation - partie java* :
+|    - Aucun livrable à fournir
     
 | *Documentation - partie IOT* : 
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Rapport de IOT]
@@ -220,18 +223,21 @@ Sprint quelconque:.
 2+|*Sprint n°5*
 
 | *Documentation - partie web* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
     
 | *Documentation - partie base de données* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Rapport de BD - Création & insertions]
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Rapport de BD - Création & insertions]
 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Rapport de BD - Procédures & triggers]
-    
+
 | *Documentation - partie java* :
-|    - Rapport de Java : **[A venir]**
+|   - Aucun livrable à fournir
+
+| *Documentation - partie java* :
+|   - Aucun livrable à fournir
     
 | *Documentation partie communication* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]
     
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/CR_SPRINT3.pdf[Compte-rendu de réunion]
     
@@ -248,13 +254,45 @@ Sprint quelconque:.
     
 | *Documentation - partie base de données* :
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/BD/DOC_BD/Rapport%20BD%20-%20Sprint%206.pdf[Livrable BD]
+    
+| *Documentation - partie java* :
+|    - Aucun livrable à fournir
 
+| *Documentation - partie IOT* :
+|    - Aucun livrable à fournir
+    
+| *Documentation partie communication* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/Analyse_semaine4.pdf[Analyse]
+
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/CR_SPRINT4.pdf[Compte-rendu de réunion]
+     
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/ODJ_4_G2B10.pdf[Ordre du jour]
+|===
+
+[cols="1,1"]
+|===
+
+2+|*Sprint n°7*
+
+| *Documentation - partie web* :
+|    - Aucun livrable à fournir
+    
+| *Documentation - partie base de données* :
+|    - Aucun livrable à fournir
     
 | *Documentation - partie java* :
 |    - Rapport de Java : **[A venir]**
-    
+
+| *Documentation - partie IOT* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_IOT/Rapport_IOT.pdf[Rapport IOT]
+
+| *Documentation partie droit* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/Analyse_d'impact_G2B-10.pdf[Livrable droit]
+
 | *Documentation partie communication* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/ODJ_-_Post_Mortem.pdf[Ordre du jour]
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/ODJ_-_Post_Mortem.pdf[Ordre du jour]
+
+
 |===
 
 == Gestion de projet & Qualité

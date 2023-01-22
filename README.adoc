@@ -118,9 +118,11 @@ Sprint quelconque:.
 [cols="1,1"]
 |===
 |*IOT/JAVA* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Applications/IOT/DOC_IOT/Rapport_IOT.docx[Livrable IOT - Sprint 3]
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Applications/IOT/DOC_IOT/Rapport_IOT.docx[Livrable IOT - Sprint 3]
 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Livrable IOT - Sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_IOT/Rapport_IOT.pdf[Livrable IOT - Sprint 7]
 
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests - Non définitif]
 

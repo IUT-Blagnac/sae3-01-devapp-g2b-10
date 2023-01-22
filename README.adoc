@@ -147,6 +147,8 @@ Sprint quelconque:.
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Procédure/Triggers - Sprint 5]
     
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Script Création BD + Insert - Sprint 5]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/BD/DOC_BD/Rapport%20BD%20-%20Sprint%206.pdf[Livrable BD - Sprint 6]
     
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests - Non définitif]
 
@@ -245,7 +247,7 @@ Sprint quelconque:.
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S2.pdf[Livrable web]
     
 | *Documentation - partie base de données* :
-|    - Livrable BD : **[A venir]**
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/BD/DOC_BD/Rapport%20BD%20-%20Sprint%206.pdf[Livrable BD]
 
     
 | *Documentation - partie java* :

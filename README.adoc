@@ -305,7 +305,7 @@ Chaque semaine, une release est réalisée, indiquant pour chaque produit, l'ens
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/releases/tag/V6[V6]
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/releases/tag/V7[V7]
 - Lien vers la doc technique
 - Lien vers la doc utilisateur
 - Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant

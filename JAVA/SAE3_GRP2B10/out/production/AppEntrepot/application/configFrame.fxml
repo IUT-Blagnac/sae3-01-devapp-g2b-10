@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/null" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MVC.ConfigFrameController">
+   <top>
+      <HBox prefHeight="41.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label prefHeight="65.0" prefWidth="180.0" text="Configuration" />
+         </children>
+      </HBox>
+   </top>
+   <center>
+      <Pane prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: grey;" BorderPane.alignment="CENTER">
+         <children>
+            <GridPane layoutX="111.0" layoutY="31.0" prefHeight="299.0" prefWidth="391.0" style="-fx-background-color: white;">
+              <columnConstraints>
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="146.0" minWidth="10.0" prefWidth="27.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="173.0" minWidth="10.0" prefWidth="173.0" />
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="200.0" minWidth="10.0" prefWidth="158.0" />
+                  <ColumnConstraints hgrow="SOMETIMES" maxWidth="102.0" minWidth="10.0" prefWidth="14.0" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="33.0" minHeight="10.0" prefHeight="26.0" vgrow="SOMETIMES" />
+                <RowConstraints maxHeight="73.0" minHeight="10.0" prefHeight="73.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="36.0" minHeight="10.0" prefHeight="35.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="40.0" minHeight="10.0" prefHeight="32.0" vgrow="SOMETIMES" />
+                  <RowConstraints maxHeight="42.0" minHeight="10.0" prefHeight="42.0" vgrow="SOMETIMES" />
+                  <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Serveur" wrappingWidth="120.13671875" GridPane.columnIndex="1">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Text>
+                  <TextField prefHeight="26.0" prefWidth="143.0" style="-fx-background-color: grey;" GridPane.columnIndex="2" />
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Port" wrappingWidth="120.13671875" GridPane.columnIndex="1" GridPane.rowIndex="1">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Text>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Capteurs &quot;:&quot;" wrappingWidth="120.13671875" GridPane.columnIndex="1" GridPane.rowIndex="2">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Text>
+                  <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Seuils d'alertes" wrappingWidth="144.13671875" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                     <font>
+                        <Font size="20.0" />
+                     </font>
+                  </Text>
+                  <TextField prefHeight="26.0" prefWidth="143.0" style="-fx-background-color: grey;" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+                  <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="4">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="CO2" wrappingWidth="77.13671875">
+                           <font>
+                              <Font size="20.0" />
+                           </font>
+                        </Text>
+                        <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                           <children>
+                              <CheckBox layoutX="40.0" layoutY="4.0" mnemonicParsing="false" />
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="5">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="TEMP" wrappingWidth="77.13671875">
+                           <font>
+                              <Font size="20.0" />
+                           </font>
+                        </Text>
+                        <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                           <children>
+                              <CheckBox layoutX="40.0" layoutY="1.0" mnemonicParsing="false" />
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </HBox>
+                  <HBox prefHeight="100.0" prefWidth="200.0" GridPane.columnIndex="1" GridPane.rowIndex="6">
+                     <children>
+                        <Text strokeType="OUTSIDE" strokeWidth="0.0" text="HUMIDITY" wrappingWidth="96.13671875">
+                           <font>
+                              <Font size="20.0" />
+                           </font>
+                        </Text>
+                        <AnchorPane prefHeight="200.0" prefWidth="200.0">
+                           <children>
+                              <CheckBox layoutX="22.0" layoutY="1.0" mnemonicParsing="false" />
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </HBox>
+                  <TextArea prefHeight="200.0" prefWidth="200.0" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+                  <TextField prefHeight="26.0" prefWidth="143.0" style="-fx-background-color: grey;" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+                  <TextField prefHeight="26.0" prefWidth="143.0" style="-fx-background-color: grey;" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+                  <TextField prefHeight="26.0" prefWidth="143.0" style="-fx-background-color: grey;" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+               </children>
+            </GridPane>
+         </children>
+      </Pane>
+   </center>
+</BorderPane>

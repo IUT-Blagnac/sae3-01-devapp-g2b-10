@@ -285,7 +285,7 @@ Sprint quelconque:.
 |    - Aucun livrable à fournir
     
 | *Documentation - partie java* :
-|    - Rapport de Java : **[A venir]**
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_JAVA/Documentation%20Java.pdf[Rapport de Java]
 
 | *Documentation - partie IOT* :
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_IOT/Rapport_IOT.pdf[Rapport IOT]

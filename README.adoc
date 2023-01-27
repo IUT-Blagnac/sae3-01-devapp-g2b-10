@@ -279,7 +279,9 @@ Sprint quelconque:.
 2+|*Sprint n°7*
 
 | *Documentation - partie web* :
-|    - Aucun livrable à fournir
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Site_Web_Ecommerce/PHP/DOC_PHP/Documentation_Utilisateur_G2B-10.pdf[Documentation Utilisateur]
+
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Site_Web_Ecommerce/PHP/DOC_PHP/Documentation%20Technique.pdf[Documentation technique]
     
 | *Documentation - partie base de données* :
 |    - Aucun livrable à fournir

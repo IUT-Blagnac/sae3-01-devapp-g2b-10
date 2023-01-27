@@ -1,0 +1,18 @@
+[2022-12-16 13:57:35] : Seuil d'alerte dépassé !
+ Capteur : blagnac_iut_10
+ Seuil : 10
+ Valeur : 19
+
+[2022-12-16 13:59:21] : Seuil d'alerte dépassé ! 
+ Capteur : blagnac_iut_2
+ Seuil : 10
+ Valeur : 19.9
+
+[2022-12-16 13:59:21] : Seuil d'alerte dépassé !
+ Capteur : blagnac_iut_2
+ Seuil : 10
+ Valeur : 19.9
+[2022-12-16 13:57:35] : Seuil d'alerte dépassé !
+ Capteur : blagnac_iut_10
+ Seuil : 10
+ Valeur : 19

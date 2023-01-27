@@ -42,8 +42,8 @@ TIP: Pensez à mettre à jour les infos dans ce fichier pour que les badges poin
 
 WARNING: Ce dépôt présente le projet à développer dans le cadre de la SAÉ 3.01 du BUT1 Informatique de l'IUT de Blagnac.
 
-Ce fichier `README.adoc` (dont vous lisez sûrement le rendu HTML automatiquement effectué par GitHUb), fait partie du dépôt initial cloné à partir du lien GitHub classroom qui vous a été donné en cours (https://classroom.github.com/a/OUF7gxEa).
-Vous trouverez le dépôt "template" qui a servi de base ici : https://github.com/IUT-Blagnac/sae3-01-template. En complément du cours Moodle de la SAE 3.01 (cf. <<liensUtiles>>), ce dépôt template vous permet d'accéder à des exemples d'https://github.com/IUT-Blagnac/sae3-01-template/issues[issues], de https://github.com/IUT-Blagnac/sae3-01-template/releases[releases], ou d'autres artefacts à venir.
+`` Ce fichier `README.adoc` (dont vous lisez sûrement le rendu HTML automatiquement effectué par GitHub), fait partie du dépôt initial cloné à partir du lien GitHub classroom qui vous a été donné en cours (https://classroom.github.com/a/OUF7gxEa).
+Vous trouverez le dépôt "template" qui a servi de base ici : https://github.com/IUT-Blagnac/sae3-01-template. En complément du cours Moodle de la SAE 3.01 (cf. <<liensUtiles>>), ce dépôt template vous permet d'accéder à des exemples d'https://github.com/IUT-Blagnac/sae3-01-template/issues[issues], de https://github.com/IUT-Blagnac/sae3-01-template/releases[releases], ou d'autres artefacts à venir. ``
 
 toc::[]
 
@@ -51,11 +51,12 @@ toc::[]
 
 Projet est réalisé par::
 
-- https://github.com/janeDoe[Jane Doe]
-- https://github.com/johnSmith[John Smith]
-...
+- https://github.com/Mazlai[Mickael Fernandez]
+- https://github.com/lucastrap[Luca Straputicari]
+- https://github.com/AlexVignal[Alexandre Vignal]
+- https://github.com/Dourlent-Maxime[Maxime Dourlent]
 
-Tuteur/tutrice enseignant(e) de l'équipe:: mailto:jean-michel.bruel@univ-tlse2.fr[JMB]
+Tuteur/tutrice enseignant(e) de l'équipe:: mailto:patricia.stolf@univ-tlse2.fr[Patricia Stolf]
 
 == Contexte général
 
@@ -63,19 +64,41 @@ TIP: Cette partie de votre `README.adoc` peut être supprimée ou mise ailleurs.
 
 === Dépôt initial
 
-Ce dépôt initial a été créé pour que tous les groupes de 2ème année aient les mêmes informations de départ.
+Découvrez l'arborescence détaillée de notre organisation GitHub (exemple de sprint) :
 
-Vous y trouverez des fichiers qui peuvent être supprimés s'ils ne vous sont pas utiles :
-
-- `.gitignore` => un fichier minimaliste des éléments à ne pas pousser en général sur vos dépôts (utiliser la commande `git add -f` pour forcer l'ajout d'un fichier Jar qui ne bougera plus, pour archive par exemple).
-- `.github` => le répertoire qui contient des éléments de gestion de projet :
-** `workflows` => le repertoire qui contient les actions à lancer à chaque push sur votre repo. 
-*** `blank.yml` => un exemple bidon mais dont vous pourrez vérifier l’exécution correcte (1er tag)
-** `ISSUE_TEMPLATE` => le repertoire qui contient quelques templates pour vos issues.
-*** `us.yml` => Exemple de template pour les User Stories
-*** `bug.yml` => Exemple de template pour les issues de bug report
-
-TIP: Adaptez ces fichiers à votre projet et à votre organisation. Et inspirez-vous en pour en ajouter.
+```
+Sprint quelconque:. 
+├───.Site web e-commerce
+|   ├───.BD
+|   │   ├───.Doc_BD
+|   │   │   └─── Rapport_BD
+|   │   └───.Code_BD
+|   │       └─── *Différents fichiers SQL*
+|   └───.PHP
+|       ├───.Doc_Web
+|       │   └─── Rapport_WEB
+|       └───.Code_PHP
+|           └─── *Différents fichiers PHP*
+|
+├───.Applications
+|   ├───.IOT
+|   │   ├───.Doc_IOT
+|   │   │   └─── Rapport_IOT
+|   │   └───.Code_BD
+|   │       └─── *Différents fichiers Python*
+|   └───.Java
+|       ├───.Doc_Java
+|       │   └─── Rapport_Java
+|       └───.Code_Java
+|           └─── *Différents fichiers Java*
+|
+└───.Documentations quotidiennes
+    └───.Communication
+        └───.Doc_Comm
+            └─── Ordre du jour
+            └─── Compte rendu de réunion
+            └─── Analyse de sprint
+```        
 
 [[liensUtiles]]
 === Liens utiles
@@ -84,23 +107,250 @@ TIP: Adaptez ces fichiers à votre projet et à votre organisation. Et inspirez-
 - Le dépôt https://github.com/IUT-Blagnac/sae3-01-template[template] qui sert de base à tous les dépôts étudiants.
 - Le lien https://classroom.github.com/a/OUF7gxEa[classroom] si besoin.
 
-TIP: Pensez à utiliser les salons Discord dédiés pour poser vos questions.
+**TIP:** Pensez à utiliser les salons Discord dédiés pour poser vos questions.
 
 == Réalisations 
 
-TIP: Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.)
+**TIP:** Mettez ici toutes les informations nécessaire à l'utilisation de votre dépôt (comment on installe votre application, où sont les docs, etc.).
+
+=== Documents :
+
+[cols="1,1"]
+|===
+|*IOT/JAVA* :
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Applications/IOT/DOC_IOT/Rapport_IOT.docx[Livrable IOT - Sprint 3]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Livrable IOT - Sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_IOT/Rapport_IOT.pdf[Livrable IOT - Sprint 7]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests - Non définitif]
+
+|*PHP* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[Schéma d'enchaînement des pages]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable Web - Sprint 4]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable Web - Sprint 5]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S2.pdf[Livrable Web - Sprint 6]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests - Non définitif]
+
+|*Base de données* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Livrable BD - Sprint 3]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Livrable BD - Sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Document_BD_CREA_INSERT.pdf[Script Création BD + Insert - Sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Procédure/Triggers - Sprint 5]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Script Création BD + Insert - Sprint 5]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/BD/DOC_BD/Rapport%20BD%20-%20Sprint%206.pdf[Livrable BD - Sprint 6]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/issues/35[Tests - Non définitif]
+
+|*Backlog* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20produit.pdf[Backlog produit]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Backlog%20sprint%203.pdf[Backlog sprint 3]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Backlog%20sprint%204.pdf[Backlog sprint 4]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Backlog%20sprint%205.pdf[Backlog sprint 5]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/Backlog%20sprint%206.pdf[Backlog sprint 6]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/Backlog%20sprint%207.pdf[Backlog sprint 7]
+
+|===
+
+=== Sprints :
+
+
+[cols="1,1"]
+|===
+
+2+|*Sprint n°3*
+
+|*Documentations - partie web* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/CharteGraphique.pdf[Charte graphique]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/PHP/DOC_PHP/RapportSEP.pdf[SEP]
+
+|*Documentations - partie base de données* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport BD]
+
+|*Documentations - partie IOT (Internet Of Things)* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Applications/IOT/DOC_IOT[Rapport IOT]
+
+|*Documentation - partie communication* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine1.pdf[Analyse]    
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT1.pdf[Compte rendu de réunion]  
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/tree/master/Sprint_3/Documentations%20hebdomadaire/Communication/Com/ODJ_5_12.png[Ordre du jour]
+|===
+
+[cols="1,1"]
+|===
+
+2+|*Sprint n°4*
+
+| *Documentation - partie web* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S50.pdf[Livrable web]
+
+| *Documentation - partie base de données* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Rapport_BD.pdf[Rapport de BD]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Site_Web_Ecommerce/BD/DOC_BD/Document_BD_CREA_INSERT.pdf[Document de création & d'insertion des données]
+
+| *Documentation - partie java* :
+|    - Aucun livrable à fournir
+    
+| *Documentation - partie IOT* : 
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Applications/IOT/DOC%20IOT/Rapport_IOT_G2B-10.pdf[Rapport de IOT]
+
+| *Documentation - partie communication* : 
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/Analyse_semaine2.pdf[Analyse]   
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/CR_SPRINT2.pdf[Compte-rendu de réunion]    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_4/Documentations%20hebdomadaire/Communication/Com/ODJ_2_G2B-10.pdf[Ordre du jour]
+|===
+
+[cols="1,1"]
+|===
+
+2+|*Sprint n°5*
+
+| *Documentation - partie web* :
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S1.pdf[Livrable web]
+    
+| *Documentation - partie base de données* :
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_CREA_INSERT.pdf[Rapport de BD - Création & insertions]
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/BD/Document_BD_PROCEDURE_TRIGGERS.pdf[Rapport de BD - Procédures & triggers]
+
+| *Documentation - partie java* :
+|   - Aucun livrable à fournir
+
+| *Documentation - partie java* :
+|   - Aucun livrable à fournir
+    
+| *Documentation partie communication* :
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]   
+
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/CR_SPRINT3.pdf[Compte-rendu de réunion]
+    
+    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/ODJ_Sprint5_G2B-10.pdf[Ordre du jour]
+|===
+
+[cols="1,1"]
+|===
+
+2+|*Sprint n°6*
+
+| *Documentation - partie web* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/PHP/DOC_PHP/Livrable%20web%20-%20S2.pdf[Livrable web]
+    
+| *Documentation - partie base de données* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Site_Web_Ecommerce/BD/DOC_BD/Rapport%20BD%20-%20Sprint%206.pdf[Livrable BD]
+    
+| *Documentation - partie java* :
+|    - Aucun livrable à fournir
+
+| *Documentation - partie IOT* :
+|    - Aucun livrable à fournir
+    
+| *Documentation partie communication* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/Analyse_semaine4.pdf[Analyse]
+
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/CR_SPRINT4.pdf[Compte-rendu de réunion]
+     
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_6/Documentation%20hebdomadaire-Communication/ODJ_4_G2B10.pdf[Ordre du jour]
+|===
+
+[cols="1,1"]
+|===
+
+2+|*Sprint n°7*
+
+| *Documentation générale* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Site_Web_Ecommerce/PHP/DOC_PHP/Documentation_Utilisateur_G2B-10.pdf[Documentation utilisateur]
+
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Site_Web_Ecommerce/PHP/DOC_PHP/Documentation%20Technique.pdf[Documentation technique]
+    
+| *Documentation - partie base de données* :
+|    - Aucun livrable à fournir
+    
+| *Documentation - partie java* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_JAVA/Documentation%20Java.pdf[Rapport de Java]
+
+| *Documentation - partie IOT* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Application-Java/DOC_IOT/Rapport_IOT.pdf[Rapport IOT]
+
+| *Documentation partie droit* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/Analyse_d'impact_G2B-10.pdf[Livrable droit]
+
+| *Documentation partie communication* :
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/ODJ_-_Post_Mortem.pdf[Ordre du jour - Post-Mortem]
+
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/CR%20-%20Post-Mortem.pdf[Compte-rendu - Post-Mortem]
+|===
 
 == Gestion de projet & Qualité
 
-Chaque sprint (semaine) vous devrez livrer une nouvelle version de votre application (release).
-Utilisez pour cela les fonctionnalités de GitHub pour les https://docs.github.com/en/repositories/releasing-projects-on-github[Releases].
+Chaque semaine, une release est réalisée, indiquant pour chaque produit, l'ensemble des tâches réalisées ainsi que le document final associé à l'ensemble de ces tâches (documentations, codes, tests, etc.).
 
 De plus ce fichier `README.adoc` devra être à jour des informations suivantes :
 
-- Version courante : https://github.com/IUT-Blagnac/sae3-01-template/releases/tag/v0.1.2[v0.1.2]
+- Version courante : https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/releases/tag/V7[V7]
 - Lien vers la doc technique
 - Lien vers la doc utilisateur
 - Liste des (ou lien vers les) User Stories (ToDo/Ongoing/Done) et % restant
 - Tests unitaires et plans de test
 - Indicateurs de qualité du code (dette technique)
 - ... tout autre élément que vous jugerez utiles pour démontrer la qualité de votre application
+
+
+=== Évaluations hebdomadaires
+
+NOTE: Les notes ci-dessous sont mises à jour directement par les enseignants responsables de la compétence 5.
+
+ifdef::env-github[]
+image:https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1704009585&format=image[link=https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1704009585&format=image]
+endif::[]
+
+ifndef::env-github[]
+++++
+<iframe width="786" height="430" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc3HJJ9iSI4aa2I9a567wX1AUEmgGrQsPl7tHGSAJ_Z-lzWXwYhlhcVIhh5vCJxoxHXYKjSLetP6NS/pubchart?oid=1704009585&format=image"></iframe>
+++++
+endif::[]
+
+=Sprint 3 retour :
+Manque liens dans le readme. Revoir la rédaction des US dans le backlog IOT.Attention aux US sans finalités dans le backlog Ecommerce.J'ai des tâches "à réaliser" qui sont en done. Lier les tâches aux US. Organiser les release par produit plutôt que par techno... Rien sur les docs.
+
+=Sprint 4 retour :
+Livraison : doc récap en web, bonne idée. Pensez à mettre un lien vers vos code sources versionnés, le lien donné dans qualité ne précise pas le produit !!
+
+Attention il me manque de nombreux liens : backlogs par produit, backlogs sprints , doc, tests ... à partir de maintenant je ne cherche plus dans vos dépôts (la vidéo le précise bien) ... pensez-y pour le sprint 5 ! D'ailleurs je n'ai pas de backlog sprint 5 ...
+
+=Sprint 5 retour : +
+Issues/Backlog : je dois avoir les US sur Github pour IOT et WEB en plus des backlog version doc avec lien depuis le readme. +
+Tasks : Idem en séparant IOT et Web.Je n'ai que les tâches Web en sprint. +
+Tests : prévoir un cahier de tests en plus des issues. +
+Doc: lien livrable web ne marche pas.Je n'ai pas de doc tech et utilisateur web je n'ai que IOT. +
+Release : proposer une version en ligne de votre site. +
+Je n'ai pas trouvé de livrable IOT. +
+Readme très confus !!! +
+J'ai 0 comits de Luca ... la note projet sera individualisée
+
+=Sprint 6 retour :
+US : il me manque le lien vers le backlog sous Github, il manque les finalités à certaines US.
+Il manque le prévisionnel sprint 7.
+Il manque encore des docs... 
+J'ai un release qui date du sprint 5 ??? un autre sprint 6 mais sans lien vers un site c'est toujours confus. 
+Où est le release IOT ?

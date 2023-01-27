@@ -1,0 +1,899 @@
+/*------------------------| HTML & body & general elements |--------------------------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Convergence&family=Courier+Prime&family=Noto+Sans+Chakma&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Send+Flowers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun&display=swap');
+
+html {
+  width:100%;
+  height:100%;
+  scroll-behavior:smooth;
+}
+
+body {
+  display:flex;
+  flex-direction: column;
+
+  margin:0;
+
+  min-height:100%;
+  width:100%;
+  font-family: 'Roboto', sans-serif;
+  background-image: url('./images/background-image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;   
+}
+
+.liensFooter, .h-items {
+  text-decoration:none;
+}
+
+/*------------------------| Header |------------------------*/
+
+header {
+  display:flex;
+  flex-wrap:wrap;
+  z-index:5;
+  top:0;
+  width:100%;
+  justify-content:space-around;
+}
+  
+#h-content, #subheader {
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+  margin-left:auto;
+  margin-right:auto;
+  padding-right:50px;
+  padding-left:50px;
+}
+  
+#h-content {
+  max-width:1100px;
+  width:90%;
+  height:120px;
+  justify-content:space-between;
+}
+  
+#subheader {
+  max-width:1600px;
+  width:90%;
+  height:150px;
+  align-items:center;
+  vertical-align:middle;
+  justify-content:center;
+}
+  
+.h-info {
+  display:flex;
+  flex-direction:row;
+  align-items:center;
+}
+
+.h-info > #art-i-chaude > img {
+  width:100px;
+  height:100px;
+}
+
+.h-info > .headerImages > img {
+  width:50px;
+  height:50px;
+}
+  
+.h-items {
+  font-family: 'Seaweed Script', cursive;
+  font-size:60px;
+  padding-left:120px;
+  padding-right:120px;
+  color:#f8f9d4;
+  text-shadow:
+    0 0 7px #cdc8a1,
+    0 0 10px #cdc8a1,
+    0 0 21px #cdc8a1,
+    0 0 42px white,
+    0 0 82px white,
+    0 0 92px white,
+    0 0 102px white,
+    0 0 151px white;
+}
+  
+#researchProduct > #s {
+  width:400px;
+  height:50px;
+  padding-left:10px;
+  outline:none;
+  border:3px solid black;
+  border-top-left-radius:5px;
+  border-bottom-left-radius:5px;
+  font-size:16px;
+  font-weight:bold;
+  font-family: 'Roboto', sans-serif;
+}
+  
+.h-info > #researchProduct > #headerButton {
+  position:absolute;
+  height:50px;
+  margin-left:-10px;
+  border:3px solid black;
+  border-top-right-radius:5px;
+  border-bottom-right-radius:5px;
+  border-left:none;
+  background-color:white;
+}
+  
+.h-info > #researchProduct > #headerButton > img{
+  width:30px;
+  height:30px;
+  
+}
+  
+#white-logos {
+  flex-direction:row;
+  justify-content:space-between;
+  width:230px;
+}
+  
+/*------------------------| Footer |------------------------*/
+  
+footer { 
+  display:flex;
+  margin-top:auto;
+  right:0;
+  bottom:0;
+  left:0;
+  justify-content:space-around;
+  width:100%;
+  height:120px;
+  background-color:#162133;
+}
+  
+.f-content {
+  display:flex; 
+  text-align:center;
+  max-width:1100px;
+  width:100%;
+  height:100%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-right:50px;
+  padding-left:50px;
+}
+  
+.table {
+  display:table;
+  width:100%;  
+  
+  table-layout: fixed;
+}
+  
+.row {
+  display:table-row;
+}
+
+.cell {
+  display:table-cell;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  vertical-align:middle;
+}
+
+.cell > .liensFooter {
+  color:white;
+  font-family: 'Roboto', sans-serif;
+  font-size:14px;
+}
+
+.cell > .liensFooter:hover {
+  text-decoration:underline;
+}
+  
+/*------------------------| Formulaires |------------------------*/
+
+#formConnexion, #formContact, #formCollaboration {
+  display:flex;
+  flex-direction:column;
+  vertical-align:middle;
+
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:5%;
+}
+
+#formConnexion, #formCollaboration {
+  border-radius:10px;
+  border:2px solid #f8f9d4;
+  color:#f8f9d4;
+  background-color:#040d22;
+
+  box-shadow:0px 5px 5px #ACAD93;
+}
+
+#formConnexion {
+  justify-content:center;
+  align-items:center;
+
+  padding-left: 200px;
+  padding-right: 200px;
+}
+
+#formContact, #formCollaboration {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#formContact {
+  border-radius:10px;
+  border:2px solid #040d22;
+  color:black;
+  background-color:white;
+
+  box-shadow:0px 5px 5px rgb(160, 154, 154);
+}
+
+/*---| D�tails du formulaire de connexion : champs, texte & bouton |---*/
+
+.errorDatabase {
+  color:red;
+  font-weight: 100;
+}
+
+.formLabels {
+  font-style: italic;
+  padding-bottom: 10px;
+}
+
+.champsForm, .styleChampsCollab {
+  height:auto;
+  border:2px solid #f8f9d4;
+  border-radius:5px;
+
+  background-color:#040d22;
+  color:#f8f9d4;
+}
+
+.champsForm{
+  margin-bottom: 10px;
+}
+
+.champsForm:hover, .champsForm:focus {
+  border:2px solid #616153;
+  background-color:#f8f9d4;
+  color:#040d22;
+  transition:0.5s ease-in-out;
+}
+
+#linkToInscription {
+  color:cyan;
+  transition:0.2s ease-in;
+}
+
+#linkToInscription:hover {
+  color:#DBFEFD;
+}
+
+#btnConnexion, #btnCollaboration {
+  padding:10px;
+  font-size:15px;
+  font-weight:bold;
+  border:3px solid #f8f9d4;
+  border-radius:5px;
+  background-color:#040d22;
+  color:#f8f9d4;
+}
+
+#btnConnexion:hover, #btnCollaboration:hover {
+  cursor:pointer;
+  color:#040d22;
+  background-color:#f8f9d4;
+
+  transition:0.2s ease-in;
+} 
+
+/*---| Titre & cadre |---*/
+
+#titleFrame, #userTitleFrame {
+  margin-top:20px;
+  margin-bottom:20px;
+
+  border-radius:10%;
+  transform:skewX(25deg);
+  background-color:#57c7c9;
+  color:#040d22;
+
+  box-shadow:15px -10px 5px #7cd4d4;
+}
+
+#titleFrame {
+  padding-left:50px;
+  padding-right:50px;
+}
+
+#formTitle, #userTitle {
+  text-align:center;
+  transform:skewX(-25deg);
+}
+
+/*----| Checkboxs |----*/
+
+#checkboxLabel {
+  cursor:pointer;
+}
+
+#checkboxLabel:hover #checkboxCheck {
+  background-color:#f8f9d4;
+}
+
+#checkboxInput {
+  width:0;
+  height:0;
+  opacity:0;
+}
+
+#checkboxInput:checked + #checkboxCheck {
+  background-color:#f8f9d4;
+  stroke-dashoffset: 0px;
+}
+
+#checkboxCheck {
+  width:25px;
+  height:25px;
+  margin-bottom: 10px;
+
+  border:3px solid #f8f9d4;
+  border-radius:3px;
+  fill:none;
+  background-color:#040d22;
+  stroke:#040d22;
+  stroke-width:3px;
+  stroke-linecap:round;
+  stroke-dashoffset:25px;
+  stroke-dasharray:25px;
+
+  transition: background-color 0.4s, stroke-dashoffset 0.6s;
+}
+
+/*------------------------| Page utilisateur connect� |------------------------*/
+
+#userConnected {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  vertical-align:middle;
+
+  margin-left:auto;
+  margin-right:auto;
+
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  width:fit-content;
+
+  border-radius:10px;
+  border:2px solid #040d22;
+  color:#040d22;
+  background-color:white;
+
+  box-shadow:0px 5px 5px #636a79;
+}
+
+/*---| Contenu de la 1ere colonne |---*/
+
+#gridContainer, #gridContact, #gridMembers, #gridCollaboration {
+  display: grid;
+  grid-template-columns: auto auto; /*columns widths*/
+}
+
+
+.center{
+  text-align: center;
+}
+
+
+
+
+
+#circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  vertical-align: middle;
+  margin-top:10%;
+  width: 150px;
+  height: 150px;
+  background-color: #57c7c9;
+  border-radius: 50%;
+}
+
+#whiteUser {
+  width:100px;
+  height:100px;
+}
+
+/*---| Contenu de la 2nde colonne |---*/
+
+#userTitleFrame {
+  margin: 0 auto;
+  width:80%;
+}
+
+#infosUser {
+  padding-right:100px;
+  border-radius:10px;
+  background-color:#111111;
+  color:white;
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+#paddingTexts {
+  padding-left:20px;
+}
+
+#statusUser {
+  text-align:center;
+  font-weight: bold;
+}
+
+#deconnexion {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:10px;
+  font-size:15px;
+  font-weight:bold;
+  border:3px solid white;
+  border-radius:5px;
+  background-color:#111111;
+  color:white;
+}
+
+#deconnexion:hover {
+  cursor:pointer;
+  color:#111111;
+  background-color:white;
+
+  transition:0.2s ease-in;
+} 
+
+/*---| D�tails du formulaire de contact : champs, texte & bouton |---*/
+
+#formContact, #formCollaboration {
+  row-gap: 1ch;
+}
+
+#contactTitle {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+
+  font-family: 'Send Flowers', sans-serif;
+}
+
+.contactLabels {
+  padding-right:10px;
+  font-weight:bold;
+}
+
+.champsContact {
+  width:250px;
+  margin-bottom:10px;
+
+  border:2px solid #002d4d;
+  border-radius:5px;
+
+  background-color:#0696fe;
+  color:white;
+}
+
+.champsContact:focus, .champsContact:hover {
+  background-color:#60bdff;
+  color:black;
+  transition:0.5s ease-in-out;
+}
+
+#lastChamp {
+  resize:none;
+  height:100px;
+  width:300px;
+
+  border:2px solid #002d4d;
+  border-radius:5px;
+
+  background-color:#156ddc;
+  color:white;
+}
+
+#lastChamp:focus, #lastChamp:hover {
+  background-color:#0696fe;
+  color:black;
+  transition:0.5s ease-in-out;
+}
+
+#sendForm {
+  display:flex;
+  vertical-align:middle;
+  margin-left:auto;
+  margin-bottom:10px;
+}
+
+#sendForm > img {
+  height:25px;
+  width:25px;
+  filter:brightness(1.75) opacity(0.6) drop-shadow(0 0 0 #c9e167);
+}
+
+#btnEnvoi {
+  width:80px;
+  margin-left:10px;
+  
+  border:2px solid #c9e167;
+  border-radius:10px;
+
+  text-align:center;
+  background-color:#c9e167;
+  font-size:16px;
+}
+
+#btnEnvoi:hover {
+  cursor:pointer;
+  border:2px solid #e7f99f;
+  background-color:#e7f99f;
+
+  transition:0.2s ease-in;
+}
+
+/*------------------------| Index & cookie |------------------------*/
+
+/*---| Cookie |---*/
+
+#cookieContainer {
+  position:fixed;
+  bottom:50px;
+  right:-400px;
+  max-width:345px;
+  width:100%;
+  background-color:#040d22;
+  border-radius: 8px;
+  border:2px solid #f8f9d4;
+  padding:15px 25px 22px;
+  transition: right 0.3s ease;
+  box-shadow:0 5px 10px rgba(0,0,0,0.1);
+}
+  
+#cookieContainer.show {
+  right:20px;
+}
+
+#cookieTitle {
+  display:flex;
+  align-items:center;
+  column-gap:15px;
+}
+
+#cookieTitle > i {
+  color:#f8f9d4;
+  font-size:32px;
+}
+
+#cookieTitle > h2 {
+  color:#f8f9d4;
+  font-weight:500;
+}
+
+#dataCookie > p{
+  color:white;
+  font-size:16px;
+}
+
+#dataCookie > p > a {
+  color:white;
+  text-decoration:none;
+}
+
+#dataCookie > p > a:hover {
+  color:#f8f9d4;
+  text-decoration:underline;
+}
+
+#buttonsContainer {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+
+  margin-top:16px;
+  width:100%;
+}
+
+.buttonCookie {
+  cursor:pointer;
+  width: calc(100% / 2 - 10px);
+  padding:8px 0;
+
+  border:none;
+  border-radius: 4px;
+
+  background-color:#f8f9d4;
+  color:#040d22;
+}
+
+.buttonCookie:hover {
+  background-color:white;
+}
+
+/*---| Index & Container d'infos |---*/
+
+.squarE, .square, .infosContainer {
+  display:flex;
+  flex-direction:column;
+  vertical-align:middle;
+
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: 50px;
+}
+
+
+.promoIndex {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    margin-bottom:20px;
+    
+  }
+
+
+.square {
+  justify-content:center;
+  align-items:center;
+  width:1200px;
+  background-color:white;
+}
+
+.squarE {
+  justify-content:center;
+  align-items:center;
+  width:1261px;
+  background-color:white;
+}
+
+.square2, .square3 {
+  display:inline-block;
+  width: auto;
+  height: 500px;
+  border: 10px;
+  border-color:black;
+  border: solid;
+}
+.squaree{
+  display: grid;
+  width: 50px;
+  height: 50px;
+  box-shadow:0 5px 10px rgba(0,0,0,0.1);
+}
+
+#box1 {
+  background-color: #000000;
+  margin-left: 100px;
+  margin-right: 30px;
+  border-radius: 10%;
+}
+#box5 {
+  width: 500px;
+  height: 500px;
+  margin-top: -10px;
+  margin-left: 20px;
+  padding-right: 50px;
+}
+.texttt{
+  font-size: 15px;
+  border: 1px black solid;
+  margin-right: 5px;
+}
+
+#box10 {
+  width: 80px;
+  height: 80px;
+  margin-top: 10px;
+  margin-left: 150px;
+}
+
+
+#box9 {
+  background-color: #000000;
+ 
+  width: 80px;
+  height: 80px;
+  margin-top: 30px;
+}
+#box2 {
+  background-color: #000000;
+  margin-left: 180px;
+  margin-right: 100px;
+  border-radius: 10%;
+}
+#box4 {
+   
+        width: 500px;
+        height: 500px;
+        margin-right: 100px;
+        margin-left: -450px;
+        margin-top: -50px;
+      
+  }
+  select#quantite {
+    height: 50px;
+    width: 100px;
+    font-size: 20px;
+    margin-left: 100px;
+    text-align: center;
+    
+  }
+  option#quantite{
+    text-align: center;
+  }
+
+.text {
+  text-align: center;
+  font-family: 'Send Flowers';
+  font-size: 75px;
+}
+
+.text2 {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+.text3 {
+  margin-top: 20px;
+  margin-left :70% ;
+  font-family: 'Roboto';
+  font-size:60px;
+  font-weight: bold;
+}
+.text4 {
+    text-align: left;
+    
+    font-size: 30px;
+
+  }
+  .text5 {
+    margin-top: 30px;
+    margin-left :70% ;
+    font-family: 'Roboto';
+    font-size:60px;
+    font-weight: bold;
+    margin-bottom: -10px;
+  }
+.testt{
+    display: flex;
+}
+
+/*------------------------| Pages du footer |------------------------*/
+
+/*---| Containers, titles, links and tables |---*/ 
+
+.infosContainer {
+  max-width:1100px;
+  width:100%;
+
+  padding-left:20px;
+  padding-right:20px;
+
+  border-radius:10px;
+  border:2px solid black;
+  background-color:white;
+
+  text-align:justify;
+  text-justify:inter-word;
+  font-family: 'Sarabun', sans-serif;
+}
+
+.infosTitle {
+  text-align:center;
+}
+
+hr {
+  color:black;
+  width:100%;
+}
+
+.linkInfos {
+  color:rgb(0, 155, 0);
+}
+
+.linkInfos:hover {
+  text-decoration: none;
+}
+
+.infosTable {
+  border:2px solid black;
+}
+
+table {
+  border-collapse:collapse;
+  margin:auto;
+}
+
+.cellsInfos {
+  width:50%;
+  padding:20px;
+  border:3px solid black;
+}
+
+.headInfos {
+  text-align:center;
+  background-color:#040d22;
+  color:white;
+}
+
+/*---| Message d'erreur dans le formulaire de contact |---*/
+
+#errorContact, #errorCollaboration {
+  color:red;
+  text-align:center;
+  font-weight: bold;
+}
+
+/*---| Spécificités de la page members |---*/
+
+.memberInfo {
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  margin-bottom:20px;
+}
+
+.memberInfo > p {
+  width:350px;
+}
+
+.memberInfo > img {
+  width:350px;
+  height:250px;
+
+  border-radius:5px;
+  border:2px solid #040d22;
+
+  filter: drop-shadow(0 1mm 0.3mm lightgrey);
+}
+
+#alignImage {
+  margin-top:42px;
+}
+
+/*---| Spécificités de la page de collaboration |---*/
+
+.labelsCollab {
+  padding-right:10px;
+}
+
+#btnCollaboration {
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+#zoneBtnCollab {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.champsCollab {
+  width:250px;
+  padding-left:10px;
+  margin-bottom:10px;
+  font-weight:bold;
+}
+
+#zoneCollab {
+  resize:none;
+  height:100px;
+  width:300px;
+}

@@ -241,8 +241,8 @@ Sprint quelconque:.
 |   - Aucun livrable à fournir
     
 | *Documentation partie communication* :
-|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]
-    
+|   - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/Analyse_semaine3.pdf[Analyse]   
+
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/CR_SPRINT3.pdf[Compte-rendu de réunion]
     
     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_5/Documentation%20hebdomadaire-Communication/ODJ_Sprint5_G2B-10.pdf[Ordre du jour]
@@ -294,9 +294,9 @@ Sprint quelconque:.
 |    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/Analyse_d'impact_G2B-10.pdf[Livrable droit]
 
 | *Documentation partie communication* :
-|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/ODJ_-_Post_Mortem.pdf[Ordre du jour]
+|    - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/ODJ_-_Post_Mortem.pdf[Ordre du jour - Post-Mortem]
 
-
+     - https://github.com/IUT-Blagnac/sae3-01-devapp-g2b-10/blob/master/Sprint_7/Documentation%20hebdomadaire-Communication/CR%20-%20Post-Mortem.pdf[Compte-rendu - Post-Mortem]
 |===
 
 == Gestion de projet & Qualité
